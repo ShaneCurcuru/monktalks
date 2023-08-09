@@ -1,6 +1,6 @@
-theme: jekyll-theme-tactile
 title: MonkTalks - technology, society, beer
 description: A fan site dedicated to all the speakers and staff of Monktoberfest by Redmonk.
+theme: jekyll-theme-tactile
 show_downloads: false
 google_analytics: G-SQSVPK9E33
 
@@ -10,7 +10,7 @@ twitter:
   card: summary
 
 defaults:
-    scope:
+  - scope:
       path: "monktoberfest"
       type: "talks"
     values:
