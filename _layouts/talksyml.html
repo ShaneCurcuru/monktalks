@@ -10,6 +10,9 @@ layout: default
 {% for itm in site.data[page.datafile] %}
   <div class="talk" id="{{ itm.id }}">
     <div class="talktitle">{{ itm.topic }}</div>
+    {% if itm.break %}
+    <div class="break"><hr style="width: 50%;"/></div>
+    {% else %}
     <div class="speakers">Speaker{% if itm.speakers.size > 1%}s{% endif %}:
       {% for speaker in itm.speakers %}
         {{ speaker.name }} {% if speaker.twitter %}<a class="twitter" href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>{% endif %}{% if forloop.last %}{% else %},{% endif %}
@@ -28,6 +31,7 @@ layout: default
     {% if itm.slides %}<div class="slides"><em><a href="{{ itm.slides }}">Slides</a></em></div>{% endif %}
     {% if itm.threads %}<div class="tweets">Livetweets: {% for thread in itm.threads %}{% assign tokens = thread | split: "/" %}<a href="{{ thread }}">@{{ tokens[3] }}</a> {% endfor %}</div>{% endif %}
     <div class="description">{{ itm.description }}</div>
+    {% endif %}
   </div>
 {% endfor %}
 </div>

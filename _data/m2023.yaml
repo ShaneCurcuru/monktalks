@@ -1,0 +1,150 @@
+# Monktoberfest 2023 talks in YAML format
+---
+-
+  id: breakfast1
+  topic: Start with a hearty breakfast and good coffee at 9:30AM
+  break: yes
+-
+  id: firstspeaker
+  topic: An amusing talk to wake us up
+  speakers: 
+    - name: First Speaker
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: An energetic and welcoming talk that will get everyone feeling comfortable in the day.
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: secondspeaker
+  topic: Something surprisingly thoughtful
+  speakers: 
+    - name: Second Speaker
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: A talk with lots of details and heart that makes you start really thinking.
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: thirdspeaker
+  topic: A much deeper talk
+  speakers: 
+    - name: Third Speaker
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: This is the kind of talk that seems straightforward, but tomorrow morning when you wake up, it's really going to make you think.
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: speaker4
+  topic: This talk is definitely not what you thought it was
+  speakers: 
+    - name: speaker4
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: Hearing the intro is interesting.  But this talk is actually about something else entirely, you find out, and your brain is surprised.
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: speaker5
+  topic: The Next Talk
+  speakers: 
+    - name: speaker5
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: Who knows?
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: speaker6
+  topic: The Next Talk
+  speakers: 
+    - name: speaker6
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: Who knows?
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: speaker7
+  topic: The Next Talk
+  speakers: 
+    - name: speaker7
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: Who knows?
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: speaker8
+  topic: The Next Talk
+  speakers: 
+    - name: speaker8
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: Who knows?
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: speaker9
+  topic: The Next Talk
+  speakers: 
+    - name: speaker9
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: Who knows?
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: speaker10
+  topic: The Next Talk
+  speakers: 
+    - name: speaker10
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: Who knows?
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+-
+  id: speaker11
+  topic: The Next Talk
+  speakers: 
+    - name: speaker11
+      twitter: 
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: Who knows?
+  threads: 
+    - https://twitter.com/monktoberfest/status/1707788940629918137
+
