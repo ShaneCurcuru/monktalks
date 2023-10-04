@@ -2,7 +2,7 @@
 ---
 -
   id: breakfast1
-  topic: Start with a hearty breakfast and good coffee at 9:30AM
+  topic: Start with a hearty breakfast and good coffee at 9:30AM.
   break: yes
 -
   id: firstspeaker
@@ -45,7 +45,7 @@
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
   id: lunch
-  topic: You will be well fed, and there will be beer!
+  topic: Lunch will offer yummy options, both for food and beer - usually around 1PM.
   break: yes
 -
   id: speaker4
@@ -100,8 +100,12 @@
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
+  id: dayend
+  topic: The conference day ends, and there's a short break before heading to the AMAZING dinner venue.
+  break: yes
+-
   id: breakfast2
-  topic: Come back again with a different breakfast at 9:30AM the second day
+  topic: Come back again the second day with a different breakfast at 9:30AM.
   break: yes
 -
   id: speaker8
@@ -113,7 +117,7 @@
   monkvideo: 
   video: 
   slides: 
-  description: You expect a bright and early speaker to be engaging. But did you expect a sing-along to a home-written song?
+  description: You expect a bright and early speaker to be engaging. But did you expect to sing-along with a home-written song?
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
