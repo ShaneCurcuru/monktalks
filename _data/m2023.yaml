@@ -12,7 +12,7 @@
       twitter: 
   tag: 
   monkvideo: 
-  video: 
+  video: https://s.apache.org/monks-preview
   slides: 
   description: An energetic and welcoming talk that will get everyone feeling comfortable in the day.
   threads: 
@@ -44,6 +44,10 @@
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
+  id: lunch
+  topic: You will be well fed, and there will be beer!
+  break: yes
+-
   id: speaker4
   topic: This talk is definitely not what you thought it was
   speakers: 
@@ -58,7 +62,7 @@
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
   id: speaker5
-  topic: The Next Talk
+  topic: A deeply personal talk
   speakers: 
     - name: speaker5
       twitter: 
@@ -66,12 +70,12 @@
   monkvideo: 
   video: 
   slides: 
-  description: Who knows?
+  description: Monktoberfest attendees often talk of feeling like family; you'll hear heartfelt family stories from speakers.
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
   id: speaker6
-  topic: The Next Talk
+  topic: Yup, they're still interesting
   speakers: 
     - name: speaker6
       twitter: 
@@ -79,12 +83,12 @@
   monkvideo: 
   video: 
   slides: 
-  description: Who knows?
+  description: You'd think by this point in the day, your brain would be full.  This speaker will prove otherwise.
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
   id: speaker7
-  topic: The Next Talk
+  topic: The last talk today
   speakers: 
     - name: speaker7
       twitter: 
@@ -92,12 +96,16 @@
   monkvideo: 
   video: 
   slides: 
-  description: Who knows?
+  description: There is no first or last talk at Monktoberfest; they are all important, honest, and thoughtful.
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
+  id: breakfast2
+  topic: Come back again with a different breakfast at 9:30AM the second day
+  break: yes
+-
   id: speaker8
-  topic: The Next Talk
+  topic: Good morning talk!
   speakers: 
     - name: speaker8
       twitter: 
@@ -105,12 +113,12 @@
   monkvideo: 
   video: 
   slides: 
-  description: Who knows?
+  description: You expect a bright and early speaker to be engaging. But did you expect a sing-along to a home-written song?
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
   id: speaker9
-  topic: The Next Talk
+  topic: Let's make you think
   speakers: 
     - name: speaker9
       twitter: 
@@ -118,12 +126,12 @@
   monkvideo: 
   video: 
   slides: 
-  description: Who knows?
+  description: The interesting part of talks is not what they say - it's what they make you think about later on.
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
   id: speaker10
-  topic: The Next Talk
+  topic: There's more good stuff here
   speakers: 
     - name: speaker10
       twitter: 
@@ -131,12 +139,12 @@
   monkvideo: 
   video: 
   slides: 
-  description: Who knows?
+  description: As the conference organizers say - they are looking for every talk to be great, both in delivery and content.
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
   id: speaker11
-  topic: The Next Talk
+  topic: Wrap up - something completely different
   speakers: 
     - name: speaker11
       twitter: 
@@ -144,7 +152,10 @@
   monkvideo: 
   video: 
   slides: 
-  description: Who knows?
+  description: All the talks will be different; they'll all make you think, and most make you want to do better in the world.
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
-
+-
+  id: conferenceend
+  topic: The second day ends after a brief wrap-up; and attendees either head home or out to lunch together on their own in Portland.
+  break: yes
