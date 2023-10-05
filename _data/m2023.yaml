@@ -105,6 +105,19 @@
     - https://twitter.com/IAmJerdog/status/1710021287337177503
     - https://twitter.com/QuinnyPig/status/1710021353850409065
 -
+  id: bcantrill
+  topic: Intelligence is not enough - The Humanity of Engineering
+  speakers: 
+    - name: Bryan Cantrill
+      twitter: bcantrill
+  tag: 
+  monkvideo: 
+  video: https://s.apache.org/monks-preview
+  slides: 
+  description: Another talk based on a tweet, about AI, society, engineering, and trolls. Plus energy!
+  threads: 
+    - 
+-
   id: dayend
   topic: The conference day ends, and there's a short break before heading to the AMAZING dinner venue.
   break: yes
