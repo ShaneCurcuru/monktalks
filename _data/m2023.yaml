@@ -76,20 +76,20 @@
   slides: 
   description: Towards a more collective management culture, and how language shapes organizations.
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - 
 -
-  id: speaker6
-  topic: Yup, they're still interesting
+  id: erynnpeterson
+  topic: Lasagne Love and Project Ricotta
   speakers: 
-    - name: speaker6
+    - name: Erynn Peterson
       twitter: 
   tag: 
   monkvideo: 
   video: 
-  slides: 
-  description: You'd think by this point in the day, your brain would be full.  This speaker will prove otherwise.
+  slides: https://lasagnalove.org/projectricotta/
+  description: How a scaling expert and CTO worked to scale the leading lasagne non-profit.
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - https://twitter.com/mooreds/status/1710008984470438389
 -
   id: speaker7
   topic: The last talk today
