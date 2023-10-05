@@ -61,20 +61,20 @@
   monkvideo: 
   video: 
   slides: 
-  description: 
+  description: All the challenges and how to address them for inclusion in your events and organizations.
   threads: 
     - 
 -
-  id: speaker5
-  topic: A deeply personal talk
+  id: emamd
+  topic: There is no 'my' in team
   speakers: 
-    - name: speaker5
-      twitter: 
+    - name: Armand Emamdjomeh
+      twitter: emamd
   tag: 
   monkvideo: 
   video: 
   slides: 
-  description: Monktoberfest attendees often talk of feeling like family; you'll hear heartfelt family stories from speakers.
+  description: Towards a more collective management culture, and how language shapes organizations.
   threads: 
     - https://twitter.com/monktoberfest/status/1707788940629918137
 -
