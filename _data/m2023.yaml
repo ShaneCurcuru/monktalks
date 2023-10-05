@@ -5,18 +5,19 @@
   topic: Start with a hearty breakfast and good coffee at 9:30AM.
   break: yes
 -
-  id: firstspeaker
-  topic: An amusing talk to wake us up
+  id: nmeans 
+  topic: The Magnitude 9.1 Meltdown At Fukushima
   speakers: 
-    - name: First Speaker
-      twitter: 
+    - name: Nicholas Means
+      twitter: nmeans
+      social: 
   tag: 
   monkvideo: 
-  video: https://s.apache.org/monks-preview
+  video: 
   slides: 
-  description: An energetic and welcoming talk that will get everyone feeling comfortable in the day.
+  description: Culture, crisis, what happened and why.
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - 
 -
   id: secondspeaker
   topic: Something surprisingly thoughtful
@@ -115,7 +116,7 @@
       twitter: 
   tag: 
   monkvideo: 
-  video: 
+  video: https://s.apache.org/monks-preview
   slides: 
   description: You expect a bright and early speaker to be engaging. But did you expect to sing-along with a home-written song?
   threads: 
