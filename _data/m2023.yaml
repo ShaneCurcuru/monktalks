@@ -20,18 +20,18 @@
     - https://twitter.com/IAmJerdog/status/1709940744465912005
     - https://twitter.com/shanecurcuru/status/1709936050490249238
 -
-  id: secondspeaker
-  topic: Something surprisingly thoughtful
+  id: Lisa Kamm
+  topic: Classification & Its Discontents - Yes, The Dewey Decimal System Is Biased
   speakers: 
-    - name: Second Speaker
-      twitter: 
+    - name: Lisa Kamm
+      twitter: kamml
   tag: 
   monkvideo: 
   video: 
   slides: 
-  description: A talk with lots of details and heart that makes you start really thinking.
+  description: How Dewey Decimal is biased - and why and how that's important to knowledge.
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - https://twitter.com/IAmJerdog/status/1709944390826012882
 -
   id: thirdspeaker
   topic: A much deeper talk
