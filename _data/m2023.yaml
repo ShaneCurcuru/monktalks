@@ -20,7 +20,7 @@
     - https://twitter.com/IAmJerdog/status/1709940744465912005
     - https://twitter.com/shanecurcuru/status/1709936050490249238
 -
-  id: Lisa Kamm
+  id: kamml
   topic: Classification & Its Discontents - Yes, The Dewey Decimal System Is Biased
   speakers: 
     - name: Lisa Kamm
@@ -33,7 +33,7 @@
   threads: 
     - https://twitter.com/IAmJerdog/status/1709944390826012882
 -
-  id: Mike Olson
+  id: mikeolson
   topic: A novella about how to setup a good board of directors
   speakers: 
     - name: Mike Olson
@@ -41,27 +41,29 @@
   tag: 
   monkvideo: 
   video: 
-  slides: 
+  slides: https://www.olsons.net/entrepreneurship/what-is-a-board-for
   description: 
   threads: 
     - https://twitter.com/IAmJerdog/status/1709950006688657554
+    - https://twitter.com/mooreds/status/1709951776969871565
 -
   id: lunch
   topic: Lunch will offer yummy options, both for food and beer - usually around 1PM.
   break: yes
 -
-  id: speaker4
-  topic: This talk is definitely not what you thought it was
+  id: baconandcoconut
+  topic: Diversity and Allyship... it isn't always easy
   speakers: 
-    - name: speaker4
-      twitter: 
+    - name: Deb Nicholson
+      twitter: baconandcoconut
+      social: https://freeradical.zone/@baconandcoconut
   tag: 
   monkvideo: 
   video: 
   slides: 
-  description: Hearing the intro is interesting.  But this talk is actually about something else entirely, you find out, and your brain is surprised.
+  description: 
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - 
 -
   id: speaker5
   topic: A deeply personal talk
