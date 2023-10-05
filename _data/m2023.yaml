@@ -91,18 +91,19 @@
   threads: 
     - https://twitter.com/mooreds/status/1710008984470438389
 -
-  id: speaker7
-  topic: The last talk today
+  id: editingemily
+  topic: How my chicken tried to kill me
   speakers: 
-    - name: speaker7
-      twitter: 
+    - name: Emily Freeman
+      twitter: editingemily
   tag: 
   monkvideo: 
   video: 
   slides: 
-  description: There is no first or last talk at Monktoberfest; they are all important, honest, and thoughtful.
+  description: This talk is not about a chicken. It's a deeply personal story of the human condition.
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - https://twitter.com/IAmJerdog/status/1710021287337177503
+    - https://twitter.com/QuinnyPig/status/1710021353850409065
 -
   id: dayend
   topic: The conference day ends, and there's a short break before heading to the AMAZING dinner venue.
