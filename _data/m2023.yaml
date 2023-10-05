@@ -28,23 +28,23 @@
   tag: 
   monkvideo: 
   video: 
-  slides: 
+  slides: https://bit.ly/DeweyDC
   description: How Dewey Decimal is biased - and why and how that's important to knowledge.
   threads: 
     - https://twitter.com/IAmJerdog/status/1709944390826012882
 -
-  id: thirdspeaker
-  topic: A much deeper talk
+  id: Mike Olson
+  topic: A novella about how to setup a good board of directors
   speakers: 
-    - name: Third Speaker
-      twitter: 
+    - name: Mike Olson
+      twitter: mikeolson
   tag: 
   monkvideo: 
   video: 
   slides: 
-  description: This is the kind of talk that seems straightforward, but tomorrow morning when you wake up, it's really going to make you think.
+  description: 
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - https://twitter.com/IAmJerdog/status/1709950006688657554
 -
   id: lunch
   topic: Lunch will offer yummy options, both for food and beer - usually around 1PM.
