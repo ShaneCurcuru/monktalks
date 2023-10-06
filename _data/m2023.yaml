@@ -113,7 +113,7 @@
   tag: 
   monkvideo: 
   video: 
-  slides: 
+  slides: https://speakerdeck.com/bcantrill/intelligence-is-not-enough-the-humanity-of-engineering
   description: Another talk based on a tweet, about AI, society, engineering, and trolls. Plus energy!
   threads: 
     - 
@@ -150,6 +150,7 @@
   slides: 
   description: Indigenous perspectives on how some cultures simply ignore their existence.
   threads: 
+    - https://twitter.com/IAmJerdog/status/1710305287033225292
     - https://twitter.com/monktoberfest/status/1710301726555680841
 -
   id: speaker10
