@@ -153,18 +153,20 @@
     - https://twitter.com/IAmJerdog/status/1710305287033225292
     - https://twitter.com/monktoberfest/status/1710301726555680841
 -
-  id: speaker10
-  topic: There's more good stuff here
+  id: carol_lee_phd
+  topic: Using evidence science instead of mind reading to measure developer success
   speakers: 
-    - name: speaker10
-      twitter: 
+    - name: Carol Lee
+      twitter: carol_lee_phd
+    - name: Morgan Ramsey
+      twitter: _Morgan_Ramsey
   tag: 
   monkvideo: 
   video: 
   slides: 
-  description: As the conference organizers say - they are looking for every talk to be great, both in delivery and content.
+  description: 
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - https://twitter.com/IAmJerdog/status/1710318169284321681
 -
   id: speaker11
   topic: Wrap up - something completely different
