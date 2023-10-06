@@ -112,7 +112,7 @@
       twitter: bcantrill
   tag: 
   monkvideo: 
-  video: https://s.apache.org/monks-preview
+  video: 
   slides: 
   description: Another talk based on a tweet, about AI, society, engineering, and trolls. Plus energy!
   threads: 
@@ -126,18 +126,18 @@
   topic: Come back again the second day with a different breakfast at 9:30AM.
   break: yes
 -
-  id: speaker8
-  topic: Good morning talk!
+  id: aneel
+  topic: The Problems With Money in Open Source
   speakers: 
-    - name: speaker8
-      twitter: 
+    - name: Aneel Lakhani
+      twitter: aneel
   tag: 
   monkvideo: 
-  video: https://s.apache.org/monks-preview
+  video: 
   slides: 
-  description: You expect a bright and early speaker to be engaging. But did you expect to sing-along with a home-written song?
+  description: Developer turned VC making you think about the problem of money (which is really about people).
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - https://twitter.com/mooreds/status/1710295023588127032
 -
   id: speaker9
   topic: Let's make you think
