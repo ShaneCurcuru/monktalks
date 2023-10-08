@@ -168,18 +168,31 @@
   threads: 
     - https://twitter.com/IAmJerdog/status/1710318169284321681
 -
-  id: speaker11
-  topic: Wrap up - something completely different
+  id: grimalkina
+  topic: What I Learned About Productivity from Growing Up Without School
   speakers: 
-    - name: speaker11
-      twitter: 
+    - name: Cat Hicks
+      twitter: grimalkina
   tag: 
   monkvideo: 
   video: 
   slides: 
-  description: All the talks will be different; they'll all make you think, and most make you want to do better in the world.
+  description: A personal story of how the college experience assumes a traditional background.
   threads: 
-    - https://twitter.com/monktoberfest/status/1707788940629918137
+    - https://twitter.com/mooreds/status/1710322281820410164
+-
+  id: taylor_atx
+  topic: You used <fill in the blanks>, so what?
+  speakers: 
+    - name: Taylor Barnett-Torabi
+      twitter: taylor_atx
+  tag: 
+  monkvideo: 
+  video: 
+  slides: 
+  description: Stories about how we communicate, and how it affects us; storytelling is everywhere, and don't do exclusionary nerdery.
+  threads: 
+    - 
 -
   id: conferenceend
   topic: The second day ends after a brief wrap-up; and attendees either head home or out to lunch together on their own in Portland.
