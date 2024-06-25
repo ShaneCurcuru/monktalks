@@ -16,6 +16,8 @@ Past speakers at Monktoberfest have been so inspiring, I decided to make a list 
 
 ### Monktoberfest Talks By Year
 
+- <a href="https://www.eventbrite.com/e/the-2024-monktoberfest-tickets-925396865937?aff=oddtdtcreator">Tickets now on sale for 2-4 OCt 2024!</a>
+- <a href="monktoberfest/2023">2023 - There is no 'my' in team</a>
 - <a href="monktoberfest/2022">2022 - Personal Stories</a>
 - <a href="monktoberfest/2019">2019 - Working With People</a>
 - <a href="monktoberfest/2018">2018 - Useful Life Lessons</a>
