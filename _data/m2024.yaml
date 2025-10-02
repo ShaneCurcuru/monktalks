@@ -1,0 +1,139 @@
+# Monktoberfest 2024 talks in YAML format
+---
+-
+  id: breakfast1
+  topic: Start with a hearty breakfast and good coffee at 9:30AM.
+  break: yes
+-
+  id: 
+  topic: 2 Wolves
+  speakers: 
+    - name: Ashley Williams
+      twitter: 
+      social: 
+  tag: 
+  monkvideo: 
+  video: https://www.youtube.com/watch?v=gR2hjbh0RUk&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=1
+  slides: 
+  description: Really thinking about the choices to be the better wolf.
+  threads: 
+    - 
+-
+  id:  
+  topic: The Values Of Work
+  speakers: 
+    - name: Jenny Zhang
+      twitter: 
+      social: 
+  tag: 
+  monkvideo: 
+  video: https://www.youtube.com/watch?v=uW1G1WCcXsk&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=2
+  slides: 
+  description: Values define organizations.
+  threads: 
+    - 
+-
+  id:  
+  topic: Let The Robots Do It
+  speakers: 
+    - name: George Lemmon
+      twitter: 
+      social: 
+  tag: 
+  monkvideo: 
+  video: https://www.youtube.com/watch?v=Usti6olKt_c&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=3&t=42s
+  slides: 
+  description: Home gardening and watering with automation and environmental savings.
+  threads: 
+    - 
+-
+  id:  
+  topic: Top Of The Mourning To You
+  speakers: 
+    - name: Eamon Ryan
+      twitter: 
+      social: 
+  tag: 
+  monkvideo: 
+  video: https://www.youtube.com/watch?v=4W8_14wK2Tg&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=4
+  slides: 
+  description: 
+  threads: 
+    - 
+-
+  id:  
+  topic: Death And Grief
+  speakers: 
+    - name: David Smith
+      twitter: 
+      social: 
+  tag: 
+  monkvideo: 
+  video: https://www.youtube.com/watch?v=stMEuZJJDck&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=5
+  slides: 
+  description: Personal stories about lives at the end.
+  threads: 
+    - 
+-
+  id:  
+  topic: Code Review Anxiety
+  speakers: 
+    - name: Carol Lee
+      twitter: 
+      social: 
+  tag: 
+  monkvideo: 
+  video: https://www.youtube.com/watch?v=LOW0ZZsh1BE&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=6
+  slides: 
+  description: Anxiety and all the places it appears.
+  threads: 
+    - 
+-
+  id:  
+  topic: An Obvious Statement About Open Source
+  speakers: 
+    - name: Christopher Neugebauer
+      twitter: 
+      social: 
+  tag: 
+  monkvideo: 
+  video: https://www.youtube.com/watch?v=bf_6EVTlZOY&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=7&t=465s
+  slides: 
+  description: Open source culture, where it came from - and where it needs to improve.
+  threads: 
+    - 
+-
+  id:  
+  topic: Agree To Disagree
+  speakers: 
+    - name: Amanda Casari
+      twitter: 
+      social: 
+    - name: Julia Ferriaoli
+      twitter: 
+      social: 
+  tag: 
+  monkvideo: 
+  video: https://www.youtube.com/watch?v=rnLGyFR4aIY&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=8
+  slides: 
+  description: An inspirational sing-along about getting along.
+  threads: 
+    - 
+-
+  id:  
+  topic: The 2024 Monktoberfest Wrapup
+  speakers: 
+    - name: Monktoberfest Attendees
+      twitter: 
+      social: 
+  tag: 
+  monkvideo: 
+  video: https://www.youtube.com/watch?v=agbyUfxcUeg&list=PLvsKqlNNP3R8JKE97pwewsDmZdcO5MEWV&index=9
+  slides: 
+  description: 
+  threads: 
+    - 
+-
+  id: conferenceend
+  topic: The second day ends after a brief wrap-up; and attendees either head home or out to lunch together on their own in Portland.
+  break: yes
